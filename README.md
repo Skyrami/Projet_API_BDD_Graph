@@ -1,10 +1,3 @@
-# DataScientest.Project3
-- Get data
-- Choose appropriate DB
-- Load data into DB
-- Create API to play with data
-- :-)
-
 # Data
 https://www.kaggle.com/datasets/konivat/tree-of-life
 
